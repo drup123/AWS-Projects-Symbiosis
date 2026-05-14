@@ -95,7 +95,8 @@ python provision.py
 
 ## 1️⃣ Script Execution in VS Code Terminal
 
-![Terminal Output]([./screenshots/terminaloutput.png](https://chatgpt.com/backend-api/estuary/content?id=file_00000000084071faa5fcd9357fabb4b3&ts=494105&p=fs&cid=1&sig=e5ccda81d65e466bc1f07c46d166e4238d20d7d3d5879c63aa15871ff0569e8f&v=0))
+![Terminal Output](<img width="1854" height="480" alt="terminaloutput" src="https://github.com/user-attachments/assets/35f4d4fd-4035-4183-954e-0f1d7f875da3" />
+)
 
 ### 📖 Description
 
@@ -123,7 +124,8 @@ This can be fixed by replacing the AMI ID with a valid one for the selected AWS 
 
 ## 2️⃣ S3 Bucket Created Successfully
 
-![S3 Bucket](./screenshots/s3bucket_creation.png)
+![S3 Bucket](<img width="1892" height="803" alt="s3bucket_creation" src="https://github.com/user-attachments/assets/7debcd4c-28aa-4c0a-b535-a1b715d66b6b" />
+)
 
 ### 📖 Description
 
