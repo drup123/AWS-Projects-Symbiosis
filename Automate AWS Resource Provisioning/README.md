@@ -95,7 +95,7 @@ python provision.py
 
 ## 1️⃣ Script Execution in VS Code Terminal
 
-![Terminal Output](./screenshots/terminaloutput.png)
+![Terminal Output]([./screenshots/terminaloutput.png](https://chatgpt.com/backend-api/estuary/content?id=file_00000000084071faa5fcd9357fabb4b3&ts=494105&p=fs&cid=1&sig=e5ccda81d65e466bc1f07c46d166e4238d20d7d3d5879c63aa15871ff0569e8f&v=0))
 
 ### 📖 Description
 
