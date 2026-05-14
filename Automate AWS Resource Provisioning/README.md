@@ -95,8 +95,7 @@ python provision.py
 
 ## 1️⃣ Script Execution in VS Code Terminal
 
-![Terminal Output](<img width="1854" height="480" alt="terminaloutput" src="https://github.com/user-attachments/assets/35f4d4fd-4035-4183-954e-0f1d7f875da3" />
-)
+![Terminal Output](<img width="1854" height="480" alt="terminaloutput" src="https://github.com/user-attachments/assets/35f4d4fd-4035-4183-954e-0f1d7f875da3" />)
 
 ### 📖 Description
 
